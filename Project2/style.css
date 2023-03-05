@@ -1,0 +1,25 @@
+
+.container{
+    border: 10px rgb(0, 2, 116) solid;
+    border-radius: 3%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100vh;
+    
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 20px;
+}
+p{
+    font-style: italic;
+    font-weight:bolder ;
+    font-size: 50px;
+
+}
