@@ -1,0 +1,16 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h1{
+    font-size: 100px;
+}
+span{
+    font-size: 100px;
+    padding: 100px;
+}
